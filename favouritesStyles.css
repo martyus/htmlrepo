@@ -1,0 +1,17 @@
+a{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:greenyellow;
+}
+p{
+    color: #d4f2d4 ;
+}
+/*this is class style*/
+.pink_class{
+    color:coral;
+}
+#yellow_h2_id{
+    color: yellow;
+}
